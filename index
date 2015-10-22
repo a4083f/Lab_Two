@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Fish Creek Animal Hospital</title>
+</head>
+
+<body>
+<h1>Fish Creek Animal Hospital</h1>
+
+<a href="index.html">Home</a> <a href="services.html">Services</a> <a href="ask.html">Ask the Vet</a> <a href="contact.html">Contact</a><br /><br />
+
+Full Service Facility<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Veterinarians and staff are on duty 24 hours a day, 7 days a week.<br />
+Years of Experience<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fish Creek Veterinarians have provided quality dependable care for your beloved animals since 1984.<br />
+Open Door Policy<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our professionals welcome owners to stay with their pets during any medical procedure.<br /><br />
+
+<p>1-800-555-5555<br />
+1242 Grassy Lane<br />
+Fish Creek, WI 55534</p><br />
+
+<footer><em>Copyright © 2013 Fish Creek Animal Hospital</em><br />
+<a href="yourfirstname@yourlastname.com">yourfirstname@yourlastname.com</a></footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
